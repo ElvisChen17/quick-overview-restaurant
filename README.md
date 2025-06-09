@@ -24,7 +24,7 @@
 
 ## 👀 預覽畫面
 
-![screenshot](https://raw.githubusercontent.com/elvis860812/image-assets/main/preview.jpg)
+![screenshot]([https://raw.githubusercontent.com/elvis860812/image-assets/main/preview.jpg](https://github.com/ElvisChen17/quick-overview-restaurant/blob/main/screenshot.jpg))
 
 ## 🤖 技術使用
 - HTML / CSS / JavaScript
